@@ -1,2 +1,2 @@
 # Members-Work
-Where members will implement ML solutions to interesting problems.
+First independent project.
