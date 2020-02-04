@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_boston
 from sklearn.preprocessing import scale
 import tensorflow.keras as keras
-
+import pandas as pd
 from keras.models import Sequential
 from keras.layers import Dense
 data1={}
