@@ -1,2 +1,2 @@
-# Members-Work
-First independent project.
+# Iris-Setosa 
+Predict species of iris setosa flowers given various characteristics of the flower.
